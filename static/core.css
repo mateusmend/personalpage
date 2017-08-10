@@ -48,17 +48,17 @@ body{
 .col-smart-12{width: 100%;}
 
 @media screen and (min-width: 768px){
-.col-tablet-1{background: #5969A5; width: 8.33333%;}
-.col-tablet-2{background: #6B5D9D; width: 16.66667%;}
-.col-tablet-3{background: #854D91; width: 25%;}
-.col-tablet-4{background: #AD498F; width: 33.33332%;}
-.col-tablet-5{background: #CB4587; width: 41.66665%;}
-.col-tablet-6{background: #CA4546; width: 49.99998%;}
-.col-tablet-7{background: #CA7E45; width: 58.33331%;}
-.col-tablet-8{background: #CAB345; width: 66.66664%;}
-.col-tablet-9{background: #B6CA45; width: 74.99997%;}
-.col-tablet-10{background: #94CA45; width: 83.33333%;}
-.col-tablet-11{background: #46CA45; width: 91.66663%;}
-.col-tablet-12{background: #45CABC; width: 100%;}
+.col-tablet-1{width: 8.33333%;}
+.col-tablet-2{width: 16.66667%;}
+.col-tablet-3{width: 25%;}
+.col-tablet-4{width: 33.33332%;}
+.col-tablet-5{width: 41.66665%;}
+.col-tablet-6{width: 49.99998%;}
+.col-tablet-7{width: 58.33331%;}
+.col-tablet-8{ width: 66.66664%;}
+.col-tablet-9{width: 74.99997%;}
+.col-tablet-10{width: 83.33333%;}
+.col-tablet-11{ width: 91.66663%;}
+.col-tablet-12{ width: 100%;}
  
 }
